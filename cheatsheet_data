@@ -1,5 +1,32 @@
 Cheatsheet
 
-Movement 
-basic wasd
+i3 
+Win wasd - movement 
+Win Shift wasd - move tile
+Win r - resize
+Win Enter - open cmd
+Win y - open programm
+Win Shift k - kill programm
+Win b - split horizontal
+Win v - split vertical
+Win f - Fullscreen
+Win g - Float
+Win 0-9 - change workplace
+Win Shift 0-9 - move tile to workspace
+Win g - layout stacking
+Win h - layout tabbed
+Win j - layout split
+Win Shift c - reload 
+Win Shift r - restart
+Win Shift e - exit i3
 
+Movement 
+wasd - basic movement
+WASD - begin/end of file/line
+
+modechange
+iI - insertmode bevor/after cursor
+oO - insertmode newline above/newline
+
+
+TBD 
