@@ -28,5 +28,11 @@ modechange
 iI - insertmode bevor/after cursor
 oO - insertmode newline above/newline
 
+completion
+Esc - close completion
+Enter - accept completion
+Tab - circle throught completionoptions
+Ctrl ws - move throught completionoptions 
+Ctrl ad - scroll throught docs dosnt work yet rebind Ctrl ad
 
 TBD 
